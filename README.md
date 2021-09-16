@@ -1,3 +1,3 @@
-#Checking out Github
+# Checking out Github
 
 Learning the fundamentals.
